@@ -1,0 +1,19 @@
+# Ignore zip files (data archives)
+*.zip
+
+# Ignore CSV files (data files)
+*.csv
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python virtual environment
+venv/
+env/
+
+# Ignore sensitive configuration files (e.g., environment variables)
+*.env
